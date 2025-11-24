@@ -4,3 +4,9 @@
 /out/
 .claude/
 COMPILATION-ISSUES.md
+
+# Add to .gitignore
+/data/tasks.csv
+/data/metrics.csv
+/wk*/research/*notes.md  # Interview notes with pseudonyms
+*.log
